@@ -1,1 +1,1 @@
-# TheBMGDiary.github.io
+A diary project for our school
